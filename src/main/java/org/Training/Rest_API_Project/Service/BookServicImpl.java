@@ -43,4 +43,9 @@ public class BookServicImpl implements BookService{
         }
         return b;
     }
+
+    @Override
+    public List<Book> all() {
+        return li;
+    }
 }

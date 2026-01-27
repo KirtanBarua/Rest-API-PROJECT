@@ -32,6 +32,11 @@ public class BookController
         return bk.getBook(id);
     }
 
+    @GetMapping
+    public List<Book> getAll(){
+        return bk.all();
+    }
+
 
     @GetMapping("/bby")
     public List<Book> getBookByYear(@RequestParam int year){

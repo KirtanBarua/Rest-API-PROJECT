@@ -12,4 +12,5 @@ public interface BookService {
      Book deleteBookById(int id);
 
      List<Book> bookByYear(int year);
+    List<Book> all();
 }

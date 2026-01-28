@@ -16,8 +16,8 @@ It is a restful backend application that manages a libray's book inventory using
 <img width="846" height="803" alt="image" src="https://github.com/user-attachments/assets/9b38eb69-7f5e-49fe-a4f3-5dad1b87caac" />
 
 <br>
-<br>
- ## FUTURE IMPROVEMENT 
+
+## FUTURE IMPROVEMENT 
  <br>
  i would have connected the backend with database as the data is only in the memory and added section to sepearate book by author or genre .
 
